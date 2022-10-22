@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quinnoutram
-- linkdin: https://www.linkedin.com/in/quinn-outram-830b15235/
+- linkdin: https://www.linkedin.com/in/quinn-keith
 - email: quinnoutram1@gmail.com
 <!---
 quinnoutram/quinnoutram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
